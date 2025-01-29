@@ -3,6 +3,17 @@
     width: 100%;
   }
 }
+
+.left, .right {
+  float: left;
+  width: 20%;
+}
+
+.main {
+  float: left;
+  width: 60%; 
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
     font-size: medium;
