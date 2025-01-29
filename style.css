@@ -1,7 +1,5 @@
-@media only screen and (max-width: 620px) {
-  .menu, .main, .right {
+@media (max-width: 620px) {
     width: 100%;
-  }
 }
 
 .left, .right {
